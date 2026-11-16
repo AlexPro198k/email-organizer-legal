@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy.html
+---
+
 # Email Organizer Privacy Policy
 
 Effective date: November 16, 2026
