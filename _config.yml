@@ -1,0 +1,6 @@
+title: Email Organizer
+description: Privacy Policy and Terms of Use
+url: https://alexpro198k.github.io
+baseurl: /email-organizer-legal
+permalink: /:basename.html
+theme: jekyll-theme-cayman
