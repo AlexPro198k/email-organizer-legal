@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Use
+permalink: /terms.html
+---
+
 # Email Organizer Terms of Use
 
 Effective date: November 16, 2026
