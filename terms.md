@@ -6,7 +6,7 @@ permalink: /terms.html
 
 # Email Organizer Terms of Use
 
-Effective date: November 16, 2026
+Effective date: November 17, 2026
 
 Publisher: Aleksandr Prozorov
 
@@ -19,5 +19,9 @@ The app provides tools to inspect sender counts and manage messages in accounts 
 Email Organizer is provided “as is” to the extent permitted by law. Mail providers operate their own services and may change their APIs or retention policies. The publisher does not control provider availability and cannot restore messages permanently deleted by you or your provider. Nothing in these terms limits rights that cannot be limited under applicable law.
 
 You must not use the app to access an account without authorization, interfere with provider services, or violate applicable law. You may stop using the app and disconnect your account at any time. Deleting the app removes local app data; revoke the account grant separately in your provider’s security settings.
+
+## Premium purchases
+
+Premium features are available through Apple in-app purchases. Monthly and yearly subscriptions renew automatically unless cancelled at least 24 hours before the current period ends. Apple charges the renewal within 24 hours before the period ends. You can manage or cancel subscriptions in your Apple Account subscription settings. Prices are shown before purchase and may vary by region. Lifetime Premium offer codes are redeemed through Apple and are subject to the offer terms shown during redemption. Purchases are associated with your Apple Account, not your connected email account. Apple processes payments, renewals, cancellations, and refund requests.
 
 For support or legal questions, contact Prozorov@live.com.
