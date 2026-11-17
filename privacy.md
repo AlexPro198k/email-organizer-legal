@@ -6,7 +6,7 @@ permalink: /privacy.html
 
 # Email Organizer Privacy Policy
 
-Effective date: November 16, 2026
+Effective date: November 17, 2026
 
 Publisher: Aleksandr Prozorov
 
@@ -25,6 +25,10 @@ When you explicitly confirm an action, the app can create provider rules, move m
 ## Storage and sharing
 
 Sender rankings and message previews are held in app memory and are not uploaded to an Email Organizer server. If you choose CSV export, a temporary file is created on-device and passed to the iOS share sheet for the destination you select; the temporary file is removed when sharing closes. OAuth refresh tokens are stored in the iOS Keychain on this device. Mail requests go directly from your device to Google Gmail API or Microsoft Graph, whichever account you selected. Those providers process requests under their own privacy policies. The app includes no advertising, analytics, tracking, or data broker integrations.
+
+## Purchases
+
+Premium purchases, subscription status, and offer-code redemption are processed by Apple through StoreKit and are linked to your Apple Account. Email Organizer does not receive or store your payment details. Subscription management and refunds are handled by Apple.
 
 ## Security and retention
 
