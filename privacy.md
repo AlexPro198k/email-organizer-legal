@@ -20,7 +20,7 @@ After you choose to connect an account, the app requests permission to read and 
 
 ## Mailbox changes
 
-When you explicitly confirm an action, the app can create provider rules, move messages to Trash or a folder, block or filter future messages, merge duplicate rules, and permanently delete Spam or Trash. Bulk Inbox cleanup moves messages older than the selected period to Trash. From Spam or Junk you can move a message back to your Inbox. Your provider may retain trashed messages for a limited time; permanent deletion cannot be undone. Review every confirmation before continuing.
+When you explicitly confirm an action, the app can create provider rules, move messages to Trash or a folder, block or filter future messages, merge duplicate rules, and delete Spam or Junk. On Gmail, deleting Spam moves it to Trash, which Gmail empties automatically after 30 days; the app cannot empty Gmail Trash. On Outlook, deleting Junk or emptying Deleted Items permanently deletes messages. Bulk Inbox cleanup moves messages older than the selected period to Trash. From Spam or Junk you can move a message back to your Inbox. Your provider may retain trashed messages for a limited time; permanent deletion cannot be undone. Review every confirmation before continuing.
 
 When you open a message in Managed mail, the app marks it as read in your mailbox, as a mail app would.
 
